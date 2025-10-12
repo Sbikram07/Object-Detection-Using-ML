@@ -2,7 +2,7 @@ from ultralytics import YOLO
 import cv2
 
 
-model = YOLO("runs/detect/train3/weights/best.pt")
+model =YOLO("CustomModel/best.pt")
 
 cap = cv2.VideoCapture(0)  # Open webcam
 
