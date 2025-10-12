@@ -37,7 +37,7 @@ Object-Detection-ML/
 ## Installation 
  ### 1. Clone  the Repository
  ``` bash
- git clone https://github.com/yourusername/object-detection-ml.git
+ git clone https://github.com/Sbikram07/Object-Detection-Using-ML.git
 
 cd object-detection-ml
 ```
