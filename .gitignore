@@ -1,0 +1,11 @@
+coco128/
+Coco128-1/
+runs/
+dataset.py
+tst.py
+yolov8n.pt
+# Optional: ignore Python cache and system files
+__pycache__/
+*.pyc
+*.pyo
+*.DS_Store
